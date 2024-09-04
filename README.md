@@ -19,7 +19,7 @@ This is a simple web application that allows users to bookmark their favorite we
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-jaswanthaitha21/bookmark_maker.git
+    git clone https://github.com/jaswanthaitha21/bookmark_maker.git
     cd bookmark_maker
     ```
 
